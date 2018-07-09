@@ -28,7 +28,7 @@
 |关闭所有标签  ||
 |快捷提交代码|| command+K
 |搜索替换||control+shift+r
-|向上/下移动||alt+shift+↑/↓
+|向上/下移动| ALT + SHIFT +↑/↓| ALT + SHIFT +↑/↓
 |run程序||fn+shift+f10
 |左/右选择一个单词||alt+shift+←/→
 |左/右选择全部内容||command+shift+←/→
