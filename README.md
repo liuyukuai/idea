@@ -22,8 +22,8 @@
 |优化导入类|Ctrl + Shift + O | 	
 |查看所属的类|| command+alt+B
 |返回       ||command+ait+左建
-|切换标签页  || control+tab 
-|切换标签页  || control+shift+tab
+|切换标签页  | CTRL + TAB | CONTROL + TAB 
+|切换标签页  || CONTROL + SHIFT + TAB
 |关闭标签     ||fn+command+F4
 |关闭所有标签  ||
 |快捷提交代码|| command+K
