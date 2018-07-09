@@ -37,5 +37,3 @@
 |提交代码快捷键 | CTRL + K | control + K
 |提交代码并push快捷键 | CTRL + SHIFT + K | CONTROL + SHIFT + K
 
-
-
