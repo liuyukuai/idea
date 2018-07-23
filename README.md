@@ -37,4 +37,5 @@
 |显示简单的方法(get/set/toString等)|| CONTROL + N
 |提交代码快捷键 | CTRL + K | CONTROL + K
 |提交代码并push快捷键 | CTRL + SHIFT + K | CONTROL + SHIFT + K
+|启动类 | CTRL + SHIFT + R | OPTION + COMMAND + R
 
