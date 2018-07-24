@@ -8,6 +8,12 @@ idea必备插件安装
  系统偏好设置->键盘->快捷键->FN功能见->添加对应对应用
 2、mac同一应用多个窗口间切换
  COMMAND + ~
+3、最小化窗口
+ COMMAND + M
+4、关闭当前tab页面
+  COMMAND + W
+5、智能提示不区分大小写
+  preferences->code completion-> none
  
  
  
