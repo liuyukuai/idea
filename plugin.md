@@ -14,6 +14,8 @@ idea必备插件安装
   COMMAND + W
 5、智能提示不区分大小写
   preferences->code completion-> none
+6、窗口全屏
+  control + command + f 
  
  
  
