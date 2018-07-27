@@ -23,7 +23,8 @@
 |查找变量所属的类|CTRL + SHIFT + B　| COMMAND + SHIFT + B
 |查找类的实现或者方法的实现| CTRL + B | COMMAND + B
 |查找类的实现或者方法的实现(跳过接口)| CTRL + ALT + B | COMMAND + OPTION + B	
-|优化导入类 | ALT + SHIFT + O | 	
+|优化导入类 | ALT + SHIFT + O | CONTROL + OPTION + O
+|格式化代码 | CTRL + ALT + L | COMMAND + OPTION + L
 |查看所属的类|| COMMAND　+　ALT　+　B
 |返回 || COMMAND + AIT + 左建
 |切换标签页 | CTRL + TAB | CONTROL + TAB 
@@ -43,3 +44,7 @@
 |启动类（可选择） || OPTION + COMMAND + R
 |关闭启动程序 || COMMAND + F2
 |编译程序 || COMMAND + F9
+
+
+参考地址：
+http://wiki.jikexueyuan.com/project/intellij-idea-tutorial/keymap-mac-introduce.html
