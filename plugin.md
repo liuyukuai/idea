@@ -17,4 +17,4 @@ idea必备插件安装
 6、窗口全屏
   control + command + f 
 7、安装全键盘控制插件
-  shortcat
+  shortcat  
