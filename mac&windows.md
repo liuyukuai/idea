@@ -69,6 +69,15 @@ mac和windows系统idea快捷键总结
 |提交代码到远程库|COMMAND + SHIFT + K|
 |更新代码到本地|COMMAND + T|
 
-
+|重构|mac系统|windows系统|
+|---|---|---
+|重命名文件、变量名|SHIFT + F6|
+|复制当前文件|F5|
+|移动当前文件|F6|
+|将选中的代码提取为方法|COMMAND + OPTION + M|
+|提取变量|COMMAND + OPTION + V|
+|提取属性|COMMAND + OPTION + F|
+|提取常量|COMMAND + OPTION + C|
+|提取参数|COMMAND + OPTION + P|
 
 
