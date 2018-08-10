@@ -58,5 +58,17 @@ mac和windows系统idea快捷键总结
 |在文件中替换|COMMAND + R|
 |全局查找|COMMAND + SHIFT + F|
 |全局替换|COMMAND + SHIFT + R|
+|查找变量的来源 |COMMAND + B| 
+|查找变量所属的类|COMMAND + SHIFT + B|
+|查找类的实现或者方法的实现|COMMAND + B|
+|查找类的实现或者方法的实现(跳过接口)|COMMAND + OPTION + B|CTRL + ALT + B
+
+|版本控制相关|mac系统|windows系统|
+|---|---|---
+|提交代码到本地|COMMAND + K|
+|提交代码到远程库|COMMAND + SHIFT + K|
+|更新代码到本地|COMMAND + T|
+
+
 
 
