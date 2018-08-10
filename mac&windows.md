@@ -38,3 +38,25 @@ mac和windows系统idea快捷键总结
 |格式化代码|COMMAND + OPTION + L|
 |优化导入|CONTROL + OPTION + O|
 |关闭编辑窗口|COMMAND + W|
+
+|编译运行|mac系统|windows系统|
+|---|---|---
+|编译工程|COMMAND + F9|
+|编译文件或者模块|COMMAND + SHIFT + F9|
+|运行（可选）|COMMAND + OPTION + R|
+|debug启动（可选）|COMMAND + OPTION + D|
+|运行|CONTROL + R|
+|debug启动|CONTROL + D|
+|关闭运行项|COMMAND + F2|
+
+|查找|mac系统|windows系统|
+|---|---|---
+|查找任何东西|DOUBLE SHIFT|
+|查找类|COMMAND + O|
+|查找所有的类型文件|COMMAND + SHIFT + O|
+|在文件中查找|COMMAND + F|
+|在文件中替换|COMMAND + R|
+|全局查找|COMMAND + SHIFT + F|
+|全局替换|COMMAND + SHIFT + R|
+
+

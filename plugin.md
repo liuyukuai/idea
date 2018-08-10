@@ -16,5 +16,5 @@ idea必备插件安装
   preferences->code completion-> none
 6、窗口全屏
   control + command + f 
-7、安装全键盘控制插件
-  shortcat  
+7、gsonFormat
+  json字符串转成bean
