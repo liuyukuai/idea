@@ -43,8 +43,8 @@ mac和windows系统idea快捷键总结
 |---|---|---
 |编译工程|COMMAND + F9|
 |编译文件或者模块|COMMAND + SHIFT + F9|
-|运行（可选）|COMMAND + OPTION + R|
-|debug启动（可选）|COMMAND + OPTION + D|
+|运行（可选）|CONTROL + OPTION + R|
+|debug启动（可选）|CONTROL + OPTION + D|
 |运行|CONTROL + R|
 |debug启动|CONTROL + D|
 |关闭运行项|COMMAND + F2|
