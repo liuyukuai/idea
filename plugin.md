@@ -18,3 +18,4 @@ idea必备插件安装
   control + command + f 
 7、gsonFormat
   json字符串转成bean
+8、Editor->Code Style 修改换行符号
