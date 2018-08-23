@@ -19,3 +19,5 @@ idea必备插件安装
 7、gsonFormat
   json字符串转成bean
 8、Editor->Code Style 修改换行符号
+9、mac系统显示隐藏文件
+ COMMAND+SHIFT+.
