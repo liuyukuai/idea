@@ -62,6 +62,7 @@ mac和windows系统idea快捷键总结
 |查找变量所属的类|COMMAND + SHIFT + B|
 |查找类的实现或者方法的实现|COMMAND + B|
 |查找类的实现或者方法的实现(跳过接口)|COMMAND + OPTION + B|CTRL + ALT + B
+|显示当前类的层次结构|CONTROL + H|
 
 |版本控制相关|mac系统|windows系统|
 |---|---|---
