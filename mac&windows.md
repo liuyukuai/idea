@@ -80,4 +80,11 @@ mac和windows系统idea快捷键总结
 |提取常量|COMMAND + OPTION + C|
 |提取参数|COMMAND + OPTION + P|
 
+|通用|mac系统|windows系统|
+|---|---|---
+|打开project项目视图，鼠标切换到project视图|COMMAND + 1|
+|鼠标切换到代码|ESC|
+|打开IDEA系统设置|COMMAND + ,|
+|移动当前文件|F6|
+|切换编辑过的文件,按多次为选择|CONTROL + TAB |
 
