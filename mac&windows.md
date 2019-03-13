@@ -38,6 +38,7 @@ mac和windows系统idea快捷键总结
 |格式化代码|COMMAND + OPTION + L|
 |优化导入|CONTROL + OPTION + O|
 |关闭编辑窗口|COMMAND + W|
+|撤销|COMMAND + SHIFT + Z|
 
 |编译运行|mac系统|windows系统|
 |---|---|---
