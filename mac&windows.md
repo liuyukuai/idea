@@ -39,6 +39,7 @@ mac和windows系统idea快捷键总结
 |优化导入|CONTROL + OPTION + O|
 |关闭编辑窗口|COMMAND + W|
 |撤销|COMMAND + SHIFT + Z|
+|创建类的测试类|COMMAND + SHIFT + T|
 
 |编译运行|mac系统|windows系统|
 |---|---|---
@@ -64,7 +65,7 @@ mac和windows系统idea快捷键总结
 |查找类的实现或者方法的实现|COMMAND + B|
 |查找类的实现或者方法的实现(跳过接口)|COMMAND + OPTION + B|CTRL + ALT + B
 |显示当前类的层次结构|CONTROL + H|
-|显示当前类的类图|COMMAND + OPTION + SHIFT + U|
+|显示当前类的类图|COMMAND + OPTION + SHIFT + U |
 
 |版本控制相关|mac系统|windows系统|
 |---|---|---
