@@ -56,6 +56,7 @@ mac和windows系统idea快捷键总结
 |查找任何东西|DOUBLE SHIFT|
 |查找类|COMMAND + O|
 |查找所有的类型文件|COMMAND + SHIFT + O|
+|查找最近打开的文件|COMMAND + E|
 |在文件中查找|COMMAND + F|
 |在文件中替换|COMMAND + R|
 |全局查找|COMMAND + SHIFT + F|
